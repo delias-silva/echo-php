@@ -4,6 +4,6 @@ namespace Echo;
 
 class Congrats {
     public static function hello() {
-        echo("Hello all!!!!\n");
+        echo("Hi everybody!!!!\n");
     }
 }
