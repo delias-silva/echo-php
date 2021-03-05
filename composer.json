@@ -1,8 +1,8 @@
 {
-    "name": "zxcvbnm456/new-echo",
+    "name": "zxcvbnm456/echo",
     "description": "New echo",
     "type": "library",
-    "homepage": "https://github.com/delias-silva/new-echo",
+    "homepage": "https://github.com/delias-silva/echo-php",
     "license": "MIT",
     "version": "1.0.0",
     "config": {
